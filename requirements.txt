@@ -1,0 +1,30 @@
+# Core
+pandas>=2.0
+numpy>=1.24
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=4.9
+python-dateutil>=2.8
+pytz>=2023.3
+
+# Spark / Databricks (these are typically provided by the Databricks runtime;
+# pinned here for clarity. Use pyspark locally if you want to run cells outside DBR.)
+pyspark>=3.4
+
+# Geospatial (projects 03, 05)
+geopandas>=0.14
+shapely>=2.0
+geojson>=3.0
+geopy>=2.4
+
+# Visualization
+plotly>=5.18
+folium>=0.15
+
+# SFTP (projects 01, 02, 03, 05)
+paramiko>=3.4
+pysftp>=0.2.9
+cryptography>=41.0
+
+# Search / misc
+algoliasearch>=3.0
