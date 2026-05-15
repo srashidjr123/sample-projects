@@ -26,9 +26,7 @@ can see exactly how the work fits together.
 
 ---
 
-## Why I picked these for an IFP application
-
-IFP's "Member of Technical Staff" role is about giving a small policy team
+Showcasing how we at NAM give a small policy team
 leverage — building tools that take policy research and rapidly turn it into
 maps, microsites, datasets, and reports. Every project in this repo is an
 example of exactly that, scoped down to a one-person team:
@@ -42,10 +40,6 @@ example of exactly that, scoped down to a one-person team:
 - The **trades-credential pipeline** is the most recent and the cleanest
   example of how I write Spark pipelines now — Delta tables, typed UDFs,
   fall-back logic, and config at the top.
-
-I'd hope to bring this same end-to-end ownership to IFP: research → data →
-artifact → deployed product, with the engineering hygiene to keep it
-maintainable.
 
 ---
 
